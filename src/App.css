@@ -40,7 +40,7 @@
   }
 }
 
-h1{
+.titulo{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 100px;
   color:antiquewhite;
@@ -90,4 +90,33 @@ h5{
 
 .item.title{
   font-family:"Nabla", system-ui;
+}
+
+
+
+/*Footer estilos*/
+
+.footer .follow-us {
+  margin-top: 20px;
+}
+
+.footer .follow-us h2 {
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  color: #ffc107;
+}
+
+.footer .follow-us a {
+  text-decoration: none;
+  color: white;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer .follow-us a:hover {
+  transform: scale(1.2);
+  color: #f0db4f; 
+}
+
+.footer .follow-us .fa-2x {
+  margin: 0 10px;
 }

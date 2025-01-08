@@ -7,10 +7,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 text-center">
-                        <h1 className="display-4"><span className="text-warning">Tienda</span>Pokemon</h1>
-                        <p>
-                            Tienda Pokemon es tu lugar de confianza para encontrar todos los productos relacionados con Pokemon. Desde cartas hasta juguetes, tenemos todo lo que necesitas.
-                        </p>
+                        <h2 className="display-4"><span className="text-warning">Tienda</span>Pokemon</h2>
                     </div>
                     <div className="col-md-4 text-center">
                         <h2>Contacto</h2>
@@ -19,12 +16,12 @@ const Footer = () => {
                     </div>
                     <div className="col-md-4 text-center">
                         <h2>Síguenos</h2>
-                        <a href="https://www.linkedin.com" className="text-white me-3"><i className="fab fa-linkedin fa-2x"></i></a>
-                        <a href="https://www.github.com" className="text-white me-3"><i className="fab fa-github fa-2x"></i></a>
+                        <a href="www.linkedin.com/in/carlos-ordoñez-reino" className="text-white me-3"><i className="fab fa-linkedin fa-2x"></i></a>
+                        <a href="https://github.com/CarlosOReino" className="text-white me-3"><i className="fab fa-github fa-2x"></i></a>
                     </div>
                 </div>
                 <div className="text-center mt-3">
-                    &copy; 2024 Tienda Pokemon | Diseñado por Carlos
+                    &copy; 2024 Tienda Pokemon
                 </div>
             </div>
         </footer>

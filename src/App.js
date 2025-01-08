@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App container mt-4">
       <NavBar></NavBar>
-      <h1 className="text-center mb-4">TIENDA POKÉMON</h1>
+      <h1 className="titulo text-center mb-4">TIENDA POKÉMON</h1>
       <div className="row">
         {searchData.slice(currentIndex, currentIndex + itemsPerPage).map((pokemon, index) => (
           <div className="col-12 col-md-4 mb-4" key={index}>
