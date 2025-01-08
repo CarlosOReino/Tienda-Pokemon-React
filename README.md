@@ -3,5 +3,5 @@
 ## Descripción
 Este es un proyecto de una **Tienda-Pokemón** 
 
-![Tienda-Pokemon](https://github.com/user-attachments/assets/88f74f38-5c4f-4a19-b1b0-887c3800523a)
+![Tienda-Pokemon](https://github.com/user-attachments/assets/0f0bd107-da9a-4c7d-9855-1dd7953fcf68)
 
